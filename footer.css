@@ -1,0 +1,20 @@
+.container9{
+    display: flex;
+    background-color: rgb(215, 215, 250);
+    position: relative;
+}
+.leftfooter,.rigthfooter{
+    flex: 1;
+
+}
+.form-group1 label{
+    display: flex;
+    flex-direction: column;
+    font-weight: bold;
+}
+.btn{
+    color: black;
+    background-color: forestgreen;
+    padding: 10px;
+    border-radius: 10px;
+}
